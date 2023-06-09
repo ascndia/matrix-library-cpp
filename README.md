@@ -30,6 +30,4 @@ To use the Matrix Operations Library in your C++ code, follow these steps:
 1. Include the necessary header files in your source file:
 
    ```cpp
-   #include "linkedlist.cxx"
-   #include "matrix.cxx"
    #include "matrixoperation.cxx"
