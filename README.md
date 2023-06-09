@@ -1,1 +1,1 @@
-# matrix-library-cpp
+# c++ library for matrix operation
