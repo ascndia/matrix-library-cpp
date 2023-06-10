@@ -21,7 +21,9 @@ To use this library in your C++ project, follow these steps:
    - `matrix.cxx`
    - `matrixoperation.cxx`
 
-3. Compile and build your project, ensuring that the required dependencies and include paths are correctly set up.
+3. Compile and build your project, ensuring that the required dependencies and include paths are correctly set up. using Clang compiler is recommended
+
+4. For usage in android install Cxxdroid from the playstore
 
 ## Usage
 
